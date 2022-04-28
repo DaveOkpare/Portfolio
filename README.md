@@ -1,18 +1,19 @@
 
 
 
-# Portfolio
+# David Okpare
 <p align="center">
   
 <img src="images/harrison.png" height=300></p>
   
-Hi, my name is David Okpare.
+Hi, my name is David.
 
 
 
 <p>I am a passive writer, active reader, and student. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.</p>
 
 
+[GitHub](https://github.com/DaveOkpare) | [LinkedIn](https://linkedin.com/in/david-okpare) | [Email](mailto:okparedave@gmail.com)
 
 
 
